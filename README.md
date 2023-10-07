@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=seon&color=gradient&customColorList=3&fontColor=Ffffff&height=250&fontAlignY=40&animation=fadeIn&fontSize=60)
 </div>
-&color=afc9ff
+
 
 ### Hi there 👋
 
