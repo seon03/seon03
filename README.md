@@ -6,6 +6,8 @@
 
 ### Hi there 👋
 
+- [사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry)
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
