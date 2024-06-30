@@ -14,6 +14,11 @@
 
 <br>
 
+## 기술블로그
+- [freedy.log](https://velog.io/@freedy/posts)
+
+<br>
+
 ## 기술 스택
 
 <div align="center">
