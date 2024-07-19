@@ -8,13 +8,19 @@
 
 <br>
 
-## Project
+## Project 🧪
 
-- [사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry)
+- [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry)
 
 <br>
 
-## 기술블로그
+## Experience 🏄🏻‍♀️🌊
+
+- ⛺ Naver AI Tech 7기
+
+<br>
+
+## 기술블로그 👩🏻‍💻
 - [freedy.log](https://velog.io/@freedy/posts)
 
 <br>
