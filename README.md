@@ -10,13 +10,13 @@
 
 ## Project 🧪
 
-- [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry)
+- [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry) : 2023.07 ~ 2024.06
 
 <br>
 
 ## Experience 🏄🏻‍♀️🌊
 
-- ⛺ Naver AI Tech 7기
+- ⛺ Naver AI Tech 7기 : 2024.08 ~ 2025.02
 
 <br>
 
