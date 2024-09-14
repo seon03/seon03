@@ -10,7 +10,7 @@
 
 ## Project 🧪
 
-- [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry) : 2023.07 ~ 2024.07 (프론트엔드, AI, 발표)
+- [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry) (프론트엔드, AI, 발표) : 2023.07 ~ 2024.07
 
 <br>
 
