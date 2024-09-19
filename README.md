@@ -6,6 +6,7 @@
 
 ### Hi there 👋 
 
+
 <br>
 
 ## Project 🧪
@@ -20,12 +21,12 @@
 
 <br>
 
-## 기술블로그 👩🏻‍💻
+## Blog 👩🏻‍💻
 - [freedy.log](https://velog.io/@freedy/posts)
 
 <br>
 
-## 기술 스택
+## Skills
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -52,9 +53,20 @@
 
 </div>
 
-## 백준 티어
+## Solved.ac Profile
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airline333)](https://solved.ac/airline333/)
 
+
+<br>
+
+
+## Git-hub Stats
+
+[![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon03&hide=stars&theme=tokyonight)](https://github.com/seon03/github-readme-stats)
+
+<br>
+
+## Hits
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseon03&count_bg=%2328FFEC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
