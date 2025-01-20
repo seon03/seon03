@@ -11,10 +11,10 @@
 
 ## Project 🧪
 
-- [수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11
-- [Data-Centric 주제 분류](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-11.git) (AI, Data) : 2024.10 ~ 2024.11
-- [Open-Domain Question Answering](https://github.com/boostcampaitech7/level2-mrc-nlp-11.git) (AI, Data) : 2024.10
-- [문장 간 유사도 측정](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-11) (AI, Data) : 2024.09
+- [✍🏻 수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11
+- [🗂️ Data-Centric 주제 분류](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-11.git) (AI, Data) : 2024.10 ~ 2024.11
+- [🌐 Open-Domain Question Answering](https://github.com/boostcampaitech7/level2-mrc-nlp-11.git) (AI, Data) : 2024.10
+- [↔️ 문장 간 유사도 측정](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-11) (AI, Data) : 2024.09
 - [💸 사회초년생을 위한 돈관리 서비스 Don't Worry, Be Happy](https://github.com/seon03/2023_DontWorry) (Frontend, AI, Prensentation) : 2023.07 ~ 2024.07
 
 <br>
