@@ -31,6 +31,8 @@
 
 <br>
 
+## Stats
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airline333)](https://solved.ac/airline333/) [![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon03&hide=stars&theme=tokyonight)](https://github.com/seon03/github-readme-stats)
 
 <br>
