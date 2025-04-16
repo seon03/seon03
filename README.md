@@ -4,10 +4,7 @@
 </div>
 
 
-## Hi there 👋 
 
-
-<br>
 
 ## Projects 🧪
 
