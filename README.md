@@ -6,7 +6,7 @@
 
 
 
-## Projects 🧪
+## Projects 🫧
 
 - [🐢 느린학습자를 위한 AI 기반 어휘력•문해력 학습 서비스, '아라부기'](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3) (AI, Backend, Design) : 2025.01 ~ 2025.02
 - [✍🏻 수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11 ~ 2024.11
@@ -32,7 +32,7 @@
 
 <br>
 
-## Stats 🫧
+## Stats ✨
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=airline333)](https://solved.ac/airline333/) [![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon03&hide=stars&theme=tokyonight)](https://github.com/seon03/github-readme-stats)
 
