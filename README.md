@@ -16,6 +16,7 @@
 - [🍔 Restaurant Big Data Application by team 'Biggle'](https://github.com/seon03/RestaurantBigDataApp) (Data, Backend, Frontend) : 2024.03 ~ 2024.03
 - [👆 WebsiteFingerprinting Project by team '기하하학'](https://github.com/seon03/WebsiteFingerprinting) (Data, AI) : 2023.10 ~ 2023.11
 - [💸 사회초년생을 위한 AI 기반 돈관리 서비스, '돈워리, Be Happy'](https://github.com/seon03/2023_DontWorry) (Frontend, AI, Prensentation) : 2023.08 ~ 2024.07
+- [👩🏻‍👧🏻‍👦🏻 University Club Database/Application](https://github.com/DB-2023) (DB) : 2023.05 ~ 2023.06
 
 <br>
 
