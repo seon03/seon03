@@ -9,7 +9,7 @@
 
 <br>
 
-## Project 🧪
+## Projects 🧪
 
 - [🐢 느린학습자를 위한 AI 기반 어휘력•문해력 학습 서비스, '아라부기'](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3) (AI, Backend, Design) : 2025.01 ~ 2025.02
 - [✍🏻 수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11 ~ 2024.11
@@ -20,9 +20,10 @@
 
 <br>
 
-## Experience 🏄🏻‍♀️🌊
+## Activities 🏄🏻‍♀️🌊
 
-- ⛺ Naver AI Tech 7기 : 2024.08 ~ 2025.02
+- ⛺ Naver AI Tech 7기 (NLP) : 2024.08 ~ 2025.02
+- 🌿 연합 생명과학학술동아리 BARA : 2021.03 ~ 2022.02
 
 <br>
 
@@ -51,7 +52,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img alt="Amazon EC2" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
+<img alt="AWS EC2" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
 
 <br>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
