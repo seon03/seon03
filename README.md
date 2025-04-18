@@ -28,7 +28,8 @@
 <br>
 
 ## Blog 👩🏻‍💻
-- [freedy.log](https://velog.io/@freedy/posts)
+
+[freedy.log](https://velog.io/@freedy/posts)
 
 <br>
 
