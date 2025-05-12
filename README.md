@@ -29,8 +29,8 @@
 
 ## Study 👩🏻‍💻
 
-- [freedy.log](https://velog.io/@freedy/posts)
-- [TIL list](https://github.com/seon03/TIL)
+- Dev Blog: [freedy.log](https://velog.io/@freedy/posts)
+- Today I Learned: [TIL list](https://github.com/seon03/TIL)
 
 <br>
 
