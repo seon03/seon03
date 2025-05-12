@@ -27,9 +27,10 @@
 
 <br>
 
-## Blog 👩🏻‍💻
+## Study 👩🏻‍💻
 
 [freedy.log](https://velog.io/@freedy/posts)
+[TIL list](https://github.com/seon03/TIL)
 
 <br>
 
