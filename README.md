@@ -22,7 +22,8 @@
 
 ## Activities 🏄🏻‍♀️🌊
 
-- ⛺ Naver AI Tech 7기 (NLP 트랙) : 2024.08 ~ 2025.02
+- ⛺ [Naver AI Tech 7기 (NLP 트랙)](https://github.com/orgs/boostcampaitech7/teams/nlp-04-lv3/repositories) : 2024.08 ~ 2025.02
+- 🔬 [Cell Biology Paper Research](https://drive.google.com/file/d/1nXpveTPVfVmDMm59-gHOWP11XOAgsVUi/view?usp=sharing) : 2022.12.27 ~ 2023.02.24
 - 🌿 연합 생명과학학술동아리 Bara 50기 : 2022.03 ~ 2023.02
 
 <br>
