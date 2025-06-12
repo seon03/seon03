@@ -31,7 +31,7 @@
 ## Study 👩🏻‍💻
 
 - Today I Learned - [TIL list](https://github.com/seon03/TIL) : 2025.05 ~ 
-- Study Group - [코테합 스터디]() / [AI Agent LAB](https://modulabs.co.kr/community/momos/284/feeds) 외 2 : 2025.04 ~ 
+- Study Group - [코테합 스터디]() / [AI Agent LAB](https://modulabs.co.kr/community/momos/284/feeds) 외 2곳 : 2025.04 ~ 
 - Dev Blog - [freedy.log](https://velog.io/@freedy/posts) : 2023.06 ~ 
 - Biology - [Lecture List](https://gentle-food-97b.notion.site/24bbe7ae30274da0bda9d54ccf78c151?v=4782530d3f9c4ba8bbf84c5aae680091&source=copy_link) : 2021.03 ~ 2025.06
 
