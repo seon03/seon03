@@ -32,6 +32,7 @@
 
 - Dev Blog: [freedy.log](https://velog.io/@freedy/posts)
 - Today I Learned: [TIL list](https://github.com/seon03/TIL)
+- Biology: [Lecture List](https://gentle-food-97b.notion.site/24bbe7ae30274da0bda9d54ccf78c151?v=4782530d3f9c4ba8bbf84c5aae680091&source=copy_link)
 
 <br>
 
