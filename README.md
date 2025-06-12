@@ -30,9 +30,10 @@
 
 ## Study 👩🏻‍💻
 
-- Dev Blog: [freedy.log](https://velog.io/@freedy/posts)
-- Today I Learned: [TIL list](https://github.com/seon03/TIL)
-- Biology: [Lecture List](https://gentle-food-97b.notion.site/24bbe7ae30274da0bda9d54ccf78c151?v=4782530d3f9c4ba8bbf84c5aae680091&source=copy_link)
+- Dev Blog: [freedy.log](https://velog.io/@freedy/posts) : 2023.06 ~ (진행중)
+- Today I Learned: [TIL list](https://github.com/seon03/TIL) : 2025.05 ~ (진행중)
+- Study Group: [코딩 테스트 합격자 되기 스터디](), [교내 취준 스터디](), [기술블로그 스터디]() : 2025.04 ~ (진행중)
+- Biology: [Lecture List](https://gentle-food-97b.notion.site/24bbe7ae30274da0bda9d54ccf78c151?v=4782530d3f9c4ba8bbf84c5aae680091&source=copy_link) : 2021.03 ~ 2025.08
 
 <br>
 
