@@ -32,8 +32,8 @@
 
 - Today I Learned - [TIL list](https://github.com/seon03/TIL) : 2025.05 ~ 
 - Study Group - [코테합 스터디](https://www.notion.so/21325c04f7a880fb8b1accbeecec8b90?v=21325c04f7a880a786d6000c405f4bae#21325c04f7a880eda971ff805761559b) / [AI Agent LAB]() 외 2곳 : 2025.04 ~ 
-- Dev Blog - [freedy.log](https://velog.io/@freedy/posts) : 2023.06 ~ 
-- Biology - [Lecture List](https://gentle-food-97b.notion.site/24bbe7ae30274da0bda9d54ccf78c151?v=4782530d3f9c4ba8bbf84c5aae680091&source=copy_link) : 2021.03 ~ 2025.06
+- Paper Review - [notion.site](https://gentle-food-97b.notion.site/Paper-review-1ee25c04f7a880eea2c2ee8157704325) : 2024.08 ~
+- Dev Blog - [freedy.log](https://velog.io/@freedy/posts) : 2023.06 ~
 
 <br>
 
