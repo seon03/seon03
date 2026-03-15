@@ -22,7 +22,8 @@
 
 ## Activities 🏄🏻‍♀️🌊
 
-- ✍🏻 [RL-LLM Study (NLP)](https://docs.google.com/presentation/d/1run-D9QE9P_xcgDtsRuqTwHsEEh6oBuRFLgKVL1E3Bs/edit?usp=sharing) : 2025.01 ~ 2025.02
+- ✍🏻 [RL-LLM Study (NLP)](https://docs.google.com/presentation/d/1run-D9QE9P_xcgDtsRuqTwHsEEh6oBuRFLgKVL1E3Bs/edit?usp=sharing) : 2026.01 ~ 2026.02
+- 🌐 [GraphRAG Proj.](https://drive.google.com/file/d/18w51ADirzCDPWd-9KEBzSoEAH_zfCK5R/view?usp=sharing) : 2025.09 ~ 2025.11
 - ⛺ [Naver AI Tech 7기 (NLP 트랙)](https://github.com/orgs/boostcampaitech7/teams/nlp-04-lv3/repositories) : 2024.08 ~ 2025.02
 - 🔬 [Winter Paper Research (Cell Biology)](https://drive.google.com/file/d/1nXpveTPVfVmDMm59-gHOWP11XOAgsVUi/view?usp=sharing) : 2022.12.27 ~ 2023.02.24
 
