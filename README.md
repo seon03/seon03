@@ -22,6 +22,7 @@
 
 ## Activities 🏄🏻‍♀️🌊
 
+- ✍🏻 [RL-LLM Study (NLP)](https://docs.google.com/presentation/d/1run-D9QE9P_xcgDtsRuqTwHsEEh6oBuRFLgKVL1E3Bs/edit?usp=sharing) : 2025.01 ~ 2025.02
 - ⛺ [Naver AI Tech 7기 (NLP 트랙)](https://github.com/orgs/boostcampaitech7/teams/nlp-04-lv3/repositories) : 2024.08 ~ 2025.02
 - 🔬 [Winter Paper Research (Cell Biology)](https://drive.google.com/file/d/1nXpveTPVfVmDMm59-gHOWP11XOAgsVUi/view?usp=sharing) : 2022.12.27 ~ 2023.02.24
 
@@ -33,6 +34,7 @@
 - Study Group - [코테합 스터디](https://gentle-food-97b.notion.site/21325c04f7a880fb8b1accbeecec8b90?v=21325c04f7a880a786d6000c405f4bae) / [AI Agent LAB]() 외 2곳 : 2025.04 ~ 
 - Paper Review - [notion.site](https://gentle-food-97b.notion.site/Paper-review-1ee25c04f7a880eea2c2ee8157704325) : 2024.08 ~
 - Dev Blog - [freedy.log](https://velog.io/@freedy/posts) : 2023.06 ~
+
 
 <br>
 
