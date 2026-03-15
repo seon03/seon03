@@ -8,6 +8,7 @@
 
 ## Projects 🫧
 
+- [🌐 GraphRAG Proj. 'Bridging the Gap: An Empirical Study of RAG-Based Small Language Models for Knowledge-Intensive QA'](https://drive.google.com/file/d/18w51ADirzCDPWd-9KEBzSoEAH_zfCK5R/view?usp=sharing) : 2025.09 ~ 2025.11
 - [🐢 느린학습자를 위한 AI 기반 어휘력•문해력 학습 서비스, '아라부기'](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3) (AI, Backend, Design) : 2025.01 ~ 2025.02
 - [✍🏻 수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11 ~ 2024.11
 - [🗂️ Data-Centric 주제 분류](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-11.git) (AI, Data) : 2024.10 ~ 2024.11
@@ -23,7 +24,6 @@
 ## Activities 🏄🏻‍♀️🌊
 
 - ✍🏻 [RL-LLM Study (NLP)](https://docs.google.com/presentation/d/1run-D9QE9P_xcgDtsRuqTwHsEEh6oBuRFLgKVL1E3Bs/edit?usp=sharing) : 2026.01 ~ 2026.02
-- 🌐 [GraphRAG Proj.](https://drive.google.com/file/d/18w51ADirzCDPWd-9KEBzSoEAH_zfCK5R/view?usp=sharing) : 2025.09 ~ 2025.11
 - ⛺ [Naver AI Tech 7기 (NLP 트랙)](https://github.com/orgs/boostcampaitech7/teams/nlp-04-lv3/repositories) : 2024.08 ~ 2025.02
 - 🔬 [Winter Paper Research (Cell Biology)](https://drive.google.com/file/d/1nXpveTPVfVmDMm59-gHOWP11XOAgsVUi/view?usp=sharing) : 2022.12.27 ~ 2023.02.24
 
