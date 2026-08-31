@@ -5,7 +5,7 @@
 
 ## Research 📜
 
-- [⚖️ GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs](https://github.com/seon03/GRAP.git) : Accepted at the 6th Workshop on Bias and Fairness in AI (BIAS 2026), ECML-PKDD. (2026.07)
+- [⚖️ GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs](https://github.com/seon03/GRAP.git) : Accepted at the 6th Workshop on Bias and Fairness in AI (BIAS 2026), [ECML-PKDD](https://ecmlpkdd.org/2026/). (2026.07)
 
 <br>
 
