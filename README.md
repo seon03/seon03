@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=seon&color=gradient&customColorList=3&fontColor=Ffffff&height=250&fontAlignY=40&animation=fadeIn&fontSize=60)
 </div>
 
-## Research
+## Research 📜
 
 - [⚖️ GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs](https://github.com/seon03/GRAP.git) : accepted in ECML-PKDD 2026 Bias Workshop (2026.07)
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## Activities 🏄🏻‍♀️🌊
+## Activities 🌊
 
 - ✍🏻 [RL-LLM Study (NLP)](https://docs.google.com/presentation/d/1run-D9QE9P_xcgDtsRuqTwHsEEh6oBuRFLgKVL1E3Bs/edit?usp=sharing) : 2026.01 ~ 2026.02
 - ⛺ [Naver AI Tech 7기 (NLP 트랙)](https://github.com/orgs/boostcampaitech7/teams/nlp-04-lv3/repositories) : 2024.08 ~ 2025.02
