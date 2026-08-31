@@ -12,6 +12,7 @@
 
 ## Projects 🫧
 
+- [🩺 Persona-Agnostic DIAGNOSIS Agent](https://github.com/seon03/PANDA.git) : 2025.10 ~
 - [🌐 GraphRAG Proj. 'Bridging the Gap: An Empirical Study of RAG-Based Small Language Models for Knowledge-Intensive QA'](https://drive.google.com/file/d/18w51ADirzCDPWd-9KEBzSoEAH_zfCK5R/view?usp=sharing) : 2025.09 ~ 2025.11
 - [🐢 느린학습자를 위한 AI 기반 어휘력•문해력 학습 서비스, '아라부기'](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3) (AI, Backend, Design) : 2025.01 ~ 2025.02
 - [✍🏻 수능형 문제 풀이 모델 생성](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3.git) (AI, Data) : 2024.11 ~ 2024.11
