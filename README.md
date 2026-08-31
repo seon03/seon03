@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=seon&color=gradient&customColorList=3&fontColor=Ffffff&height=250&fontAlignY=40&animation=fadeIn&fontSize=60)
 </div>
 
+## Research
 
+- [⚖️ GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs](https://github.com/seon03/GRAP.git) : accepted in ECML-PKDD 2026 Bias Workshop (2026.07)
+
+<br>
 
 
 ## Projects 🫧
